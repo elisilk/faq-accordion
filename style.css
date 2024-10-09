@@ -116,6 +116,10 @@ h1::before {
   justify-content: space-between;
 }
 
+.accordion summary::marker {
+  content: "";
+}
+
 .accordion summary::-webkit-details-marker {
   display: none;
 }
