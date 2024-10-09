@@ -53,7 +53,7 @@ Users should be able to:
 
 Specific areas that the solution should be improved (known issues):
 
-- Hmm 🤔 ...
+- I definitely think there is work to do on deciding when to transition from the background pattern for the mobile view versus the desktop view. Right now, the mobile view pattern probably is staying too long, so I should think about lowering the media query (it's currently at 750px).
 
 More general ideas I want to consider:
 
