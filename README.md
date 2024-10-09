@@ -26,11 +26,9 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-|             Mobile designed at 375px:              |             Desktop designed at 1440px:             |
-| :------------------------------------------------: | :-------------------------------------------------: |
-|  ![](./screenshots/screenshot-mobile-rating.png)   |  ![](./screenshots/screenshot-desktop-rating.png)   |
-|                Mobile (thank you):                 |                Desktop (thank you):                 |
-| ![](./screenshots/screenshot-mobile-thank-you.png) | ![](./screenshots/screenshot-desktop-thank-you.png) |
+|        Mobile designed at 375px:         |        Desktop designed at 1440px:        |
+| :--------------------------------------: | :---------------------------------------: |
+| ![](./screenshots/screenshot-mobile.png) | ![](./screenshots/screenshot-desktop.png) |
 
 ### Links
 
