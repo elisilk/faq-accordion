@@ -54,6 +54,8 @@ Users should be able to:
 Specific areas that the solution should be improved (known issues):
 
 - I definitely think there is work to do on deciding when to transition from the background pattern for the mobile view versus the desktop view. Right now, the mobile view pattern probably is staying too long, so I should think about lowering the media query (it's currently at 750px).
+- Had some errors in the HTML report that I need to address.
+- And it's clear that there is a shadow on the main container, so will need to add that too.
 
 More general ideas I want to consider:
 
